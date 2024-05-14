@@ -1,6 +1,9 @@
 # Section 19: The Power of Reflogs - Retrieving "Lost" Work
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Introducing Reflogs
 

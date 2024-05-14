@@ -1,6 +1,9 @@
 # Section 15: Rebasing: The Scariest Git Command?
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Why Is Rebasing Scary? Is it?
 

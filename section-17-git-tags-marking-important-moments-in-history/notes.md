@@ -1,6 +1,9 @@
 # Section 17: Git Tags: Marking Important Moments In History 
 
 ## What Really Matters In This Section 
+- Critical 
+- Important 
+- Nice to Have
 
 ## The Idea Behind Git Tags 
 

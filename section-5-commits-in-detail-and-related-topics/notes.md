@@ -1,6 +1,9 @@
 # Section 5: Commits In Detail (And Related Topics)
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Navigating the Git Documentation
 

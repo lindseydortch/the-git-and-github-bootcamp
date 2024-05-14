@@ -1,6 +1,9 @@
 # Section 6: Working With Branches
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Introducing Branches
 

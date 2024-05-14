@@ -1,6 +1,9 @@
 # Section 7: Merging Branches, Oh Boy!
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## An Introduction to Merging
 

@@ -1,6 +1,9 @@
 # Section 4: The Very Basics of Git: Adding & Committing
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## What Is A Git Repo?
 

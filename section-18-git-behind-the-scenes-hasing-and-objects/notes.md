@@ -1,6 +1,9 @@
 # Section 18: Git Behind the Scenes - Hashing & Objects
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Working With The Local Config File
 

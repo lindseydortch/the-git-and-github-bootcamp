@@ -1,6 +1,9 @@
 # Section 13: Github Grab Bag: Odds & Ends
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Github Repo Visibility: Public vs. Private
 

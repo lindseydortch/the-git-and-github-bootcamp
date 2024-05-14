@@ -1,6 +1,9 @@
 # Section 14: Git Collaboration Workflows
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## The Pitfalls of a Centralized Workflow
 

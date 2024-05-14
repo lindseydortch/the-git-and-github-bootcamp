@@ -1,6 +1,9 @@
 # Section 10: Undoing Changes & Time Traveling
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Checking Out Old Commits
 

@@ -1,6 +1,9 @@
 # Section 11: Github: The Basics
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## What Does Github Do For Us?
 

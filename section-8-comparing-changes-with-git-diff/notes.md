@@ -1,6 +1,9 @@
 # Section 8: Comparing Changes With Git Diff
 
 ## What Really Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## Introducing The Git Diff Command
 

@@ -1,6 +1,9 @@
 # Section 20: Writing Custom Git Aliases
 
 ## What Matters In This Section
+- Critical 
+- Important 
+- Nice to Have
 
 ## The Global Git Config File
 
